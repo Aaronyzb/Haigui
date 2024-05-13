@@ -10,6 +10,7 @@
 #include<QTextEdit>
 #include <QMediaPlayer>
 #include <QAudioOutput>
+#include <QDebug>
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
