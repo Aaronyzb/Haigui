@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/ph">
+        <file>ph/915fd0a2d767170fad637b50d38a584.jpg</file>
+        <file>ph/anniu.jpg</file>
+        <file>ph/bing.jpg</file>
+        <file>ph/istockphoto-1244097573-612x612.jpg</file>
+        <file>ph/OIP.jpg</file>
+        <file>ph/wuzi.jpg</file>
+        <file>ph/zhuomi.jpg</file>
+        <file>ph/yinyue.mp3</file>
+        <file>ph/zhuo.jpg</file>
+    </qresource>
+</RCC>
