@@ -10,7 +10,6 @@
 #include<QTextEdit>
 #include <QMediaPlayer>
 #include <QAudioOutput>
-#include <QDebug>
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
@@ -20,6 +19,7 @@ int main(int argc, char *argv[])
     window.setWindowTitle("海龟汤");
     window.resize(1000, 800);
     // 设置窗口固定大小，禁止调整窗口大小
+
     window.setFixedSize(1000, 800);
 
     // 加载第一个窗口的背景图片
